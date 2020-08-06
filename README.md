@@ -4,7 +4,7 @@ IMPORTANT NOTICE: The code is a clone of the original London App Brewery chat ap
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# Flash Chat ⚡️
+# Flash Chat ⚡️ (customized for Thomas Woelz)
 
 ## Our Goal
 
