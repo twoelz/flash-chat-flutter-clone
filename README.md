@@ -1,3 +1,6 @@
+
+IMPORTANT NOTICE: The code is a clone of the original London App Brewery chat app, used for the Flutter course of Dr. Angela Yu (https://www.udemy.com/course/flutter-bootcamp-with-dart/). I (Thomas Woelz, repository owner) hereby make no claim of having coded any of the code in this repository, but I have changed some parts for customization and learning purposes. Below follows the original README.md
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
